@@ -1,2 +1,20 @@
-package PACKAGE_NAME;public class Car {
+public class Car {
+
+    private String models;
+
+    public void setModels(String modelss){
+        models=modelss;
+
+    }
+
+    public String getModels(){
+        return models;
+
+    }
+
+
+
+
+
+
 }
